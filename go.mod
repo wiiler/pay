@@ -1,3 +1,3 @@
-module github.com/wiiler/pay
+module pay
 
 go 1.16
